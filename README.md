@@ -2,11 +2,11 @@
 
 **Single-Page Interactive Dashboard | August 2026 Data**
 
-## 📊 Overview
+##  Overview
 
 Comprehensive analytics dashboard analyzing mutual fund investor behavior from August 2026. 6 interactive charts on one page showing conversion funnels, category performance, retention metrics, and revenue trends.
 
-## 🎯 Key Metrics (August 2026)
+##  Key Metrics (August 2026)
 
 - **Conversion Rate**: 75% (signup → purchase)
 - **Churn Rate**: 35%
@@ -14,7 +14,7 @@ Comprehensive analytics dashboard analyzing mutual fund investor behavior from A
 - **Average ROI**: 5.76%
 - **Active Users**: 13/20 (65%)
 
-## 📁 Files
+##  Files
 
 ├── mutual_funds_dataset.csv # August 2026 dataset (20 investors)
 ├── mutual_fund_analysis.py # Single dashboard generator
@@ -22,7 +22,7 @@ Comprehensive analytics dashboard analyzing mutual fund investor behavior from A
 └── README.md
 
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 pip install pandas plotly
@@ -30,7 +30,7 @@ python mutual_fund_analysis.py
 # Open dashboard.html in browser
 ```
 
-## 📊 Dashboards (All in 1 File)
+##  Dashboards (All in 1 File)
 
 | #1 | Conversion Funnel | Shows 75% signup→purchase rate |
 | #2 | Category Performance | Large Cap leads with 9.2% ROI |
@@ -39,16 +39,16 @@ python mutual_fund_analysis.py
 | #5 | Top 10 Funds | HDFC Top 100 leads with 10.1% ROI |
 | #6 | Signup Trend | Week-over-week growth tracking |
 
-## 💡 SQL Concepts Demonstrated
+##  SQL Concepts Demonstrated
 
-✅ Filtering & WHERE clauses  
-✅ GROUP BY & Aggregations  
-✅ CASE WHEN conditions  
-✅ Window functions (ROW_NUMBER, ranking)  
-✅ JOIN operations (implicit through pandas)  
-✅ Subqueries & nested logic  
+ Filtering & WHERE clauses  
+ GROUP BY & Aggregations  
+ CASE WHEN conditions  
+ Window functions (ROW_NUMBER, ranking)  
+ JOIN operations (implicit through pandas)  
+ Subqueries & nested logic  
 
-## 🎓 Skills Shown
+##  Skills Shown
 
 - SQL data analysis
 - Product metrics & KPIs
