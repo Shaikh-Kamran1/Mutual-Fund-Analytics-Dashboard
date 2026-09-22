@@ -1,5 +1,4 @@
 # Mutual-Fund-Analytics-Dashboard
-# Mutual Fund Analytics Dashboard
 
 **Single-Page Interactive Dashboard | August 2026 Data**
 
